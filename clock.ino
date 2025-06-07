@@ -7,7 +7,7 @@
 
 #ifndef STASSID 
 #define STASSID "Undeadser" // название SSID - сети Wi-Fi
-#define STAPSK  "Civilization81" // пароль SSID - сети Wi-Fi
+#define STAPSK  "***" // пароль SSID - сети Wi-Fi
 #endif
 
 
